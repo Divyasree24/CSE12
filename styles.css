@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("6.jpg");
+}
+
+.header {
+    display: block;
+    background-color: #463e43;
+    color: white;
+    padding-top: 10px;
+    padding-bottom:2px;
+    border-radius:20px;
+    align-items: center;
+}
+.img{
+    border-radius:50%;
+}
+.title{
+    font-family:cursive ;
+}
+.but
+{
+    position:absolute;
+    right: 30px;
+    top : 50px;
+}
+div
+{
+    text-align: center;
+}
+.loneliness-assessment,
+.feedback-collection,
+.recommendations {
+    margin: 20px;
+}
+
+.im{
+    border-radius: 50%;
+    margin: 35px;
+    margin-bottom: -4px;
+}
+.im1{
+    border-radius: 50%;
+    margin: 35px;
+    margin-bottom: -4px;
+    width: 342px;
+    height: 232px;
+}
+button {
+    background-color: #49444045;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: cursive;
+    border-radius: 50px;
+}
+
+textarea {
+    width: 70%;
+    height: 80px;
+}
+.rec{
+    margin-top : -4px;
+    margin: 40px;
+}
+/* Add more CSS styles as needed */
